@@ -13,6 +13,44 @@ Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Acad
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+## Skills
+
+Let's face it: I'm an extrovert. I am one-hundred-percent, inequivocally a people-person. I wake up on a Monday morning, and I'm **that** person. You know, the one who's actually excited for the 9AM Zoom call–– and my strongest skills are a great reflection of this. That said, am I someone who has to fill the silence? Not at all. Being comfortable with silence in a conversation, particularly over video conferencing, is an integral component of excellent communication and active listening.
+
+#### Effective, Efficient Communication & Active Listening
+
+- Experience
+- Achievements
+- Evidence
+
+#### Design, Imagination, & Looking at the Big Picture
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Quick Learner & Teaching
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Improvement Mindset
+
+"What can I do to make this a better experience?" Is something I constantly think about. Perfect doesn't exist, but I like to work on projects and develop them to be as useful as possible.
+
+As part of the Makers Academy precourse, I was tasked with a 'Student Directory' project. As part of this project, I decided to go slightly beyond the scope of the walkthrough to include a few new parameters that would deliver a more effective directory, and a better user experience. However, in order to implement some of these new methods.
+
+While doing this, I ran into more than a few bugs, but was able to fix all of them, refactor the code, and deliver a working program in commandline. All-in-all, I'm extremely happy with how it turned out. Rather than only taking a name and a month for the student, my directory takes in a name (properly capitalized it), a month, a hobby, and a birthdate (in UK format), and then returns each student by their respective cohort, and numbers each student within each cohort.
+
+Was creating this necessary? No. I could have created a simple directory that lists out each student and cohort. However, when imagining that I was building this for a teacher (like myself at the time), I knew that more information and a more descriptive output was necessary for a great experience. 
+
 ## Experience
 
 **Impressa Solutions** (Nov. 2019 to Sept. 2020)  
@@ -28,25 +66,6 @@ _ESL Teacher_
 **UW Credit Union** (Oct. 2016 to June 2018)  
 _Fulltime Teller_
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (Sept. 2020 to Dec. 2020)
@@ -61,10 +80,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - B.A. Theatre Arts & Certificate in Arts & Social Entrepreneurship
 - 3.0 GPA
 - During my time at UWM, I worked for the IT Help Desk for two year (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
