@@ -1,6 +1,8 @@
-## Your Name
+## KC Thomas
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a curious, ambitious, energetic wonderer and wanderer. After spending some time traveling and learning about the world; living lives as an ESL teacher and Inbound Digital Marketer–– I have settled into a new role that I only ever dreamt was possible: I am a **Full Stack Software Developer**, with interests ranging on everything from finance to music. Pushing boundaries, experimenting, and testing are some of my favourite things. It doesn't take much to get me excited about a project!
+
+Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and am now on track to graduate Makers Academy (a 16 week Software Development Bootcamp) in December 2020. Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited about the future in a time when the future is so uncertain. 
 
 ## Projects
 
@@ -11,15 +13,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Impressa Solutions** (Nov. 2019 to Sept. 2020)  
+_Inbound Alchemist (freelance)_
 
-- Any experience relevent to software development
+- Coordinated and managed a team of Social Media Markers
+- Developed SOPs and Marketing Strategy for various clients
+- Copywriting for over 8 clients
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Daegu Gyeongbuk English Village** (Nov. 2018 to Nov. 2019)  
+_ESL Teacher_
 
-- Any experience relevent to software development
+**UW Credit Union** (Oct. 2016 to June 2018)  
+_Fulltime Teller_
 
 ## Skills
 
@@ -42,18 +47,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept. 2020 to Dec. 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Wisconsin - Milwaukee (Aug. 2012 to May 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- B.A. Theatre Arts & Certificate in Arts & Social Entrepreneurship
+- 3.0 GPA
+- During my time at UWM, I worked for the IT Help Desk for two year (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
 
 #### Any other qualifications
 
