@@ -1,6 +1,8 @@
 ## KC Thomas
 
-I am a curious, ambitious, energetic wonderer and wanderer. After spending some time traveling and learning about the world; living lives as an ESL teacher and Inbound Digital Marketer–– I have settled into a new role that I only ever dreamt was possible: I am a **Full Stack Software Developer**, with interests ranging on everything from finance to music. Pushing boundaries, experimenting, and testing are some of my favourite things. It doesn't take much to get me excited about a project!
+I am a curious, ambitious, energetic wonderer and wanderer. After spending some time traveling and learning about the world; living lives as an ESL teacher and Inbound Digital Marketer–– I have settled into a new role that I only ever dreamt was possible: I am a **Full Stack Software Developer**, with interests ranging on everything from finance to music. 
+
+Pushing boundaries, experimenting, and testing are some of my favourite things. It doesn't take much to get me excited about a project!
 
 Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and am now on track to graduate Makers Academy (a 16 week Software Development Bootcamp) in December 2020. Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited about the future in a time when the future is so uncertain. 
 
