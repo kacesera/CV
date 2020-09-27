@@ -34,7 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Quick Learner & Teaching
 
-When I first bega my studies at University, I was on track to become a Theatre Educator, and because of this–– I was required to learn about meta-learning, or rather: Learning how to learn. This is a concept I've since been incorporating into my every day life as much as possible. Back in 2018, taking a look at my choice to travel the world, while being fluent in only one language (English)–– I decided to incorporate my knowledge of meta-learning into a couple of my own self-directed endeavours: Learning French, and learning to play the piano.
+When I first began my studies at University, I was on track to become a Theatre Educator, and because of this–– I was required to learn about meta-learning, or rather: Learning how to learn. This is a concept I've since been incorporating into my every day life as much as possible. Back in 2018, taking a look at my choice to travel the world, while being fluent in only one language (English)–– I decided to incorporate my knowledge of meta-learning into a couple of my own self-directed endeavours: Learning French, and learning to play the piano.
 
 After 5 months of intense self-study and weekly conversations in the language, I had managed to learn French to an A2 level, and was far more confident speaking in French than I had ever been in Spanish (despite 5 years of classes). 
 
