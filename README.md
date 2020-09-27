@@ -19,18 +19,15 @@ Let's face it: I'm an extrovert. I am one-hundred-percent, inequivocally a peopl
 
 #### Effective, Efficient Communication & Active Listening
 
-- Experience
-- Achievements
-- Evidence
+Listening is generally far more important than speaking–– such as listening to what you're clients are truly trying to communicate, and forming a response from there. Not only does the client feel more understood, doing this saves quite a lot of time.
+
+Having had the opportunity to work directly with stakeholders on various marketing projects, I was able to demonstrate on a daily basis in addition to coordinating our fully remote team of social media managers.
 
 #### Design, Imagination, & Looking at the Big Picture
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+It's easy to get lost in the details of things. As a matter of fact, I used to do that a lot. The most important lesson I've learnt in life (and in the creation of any project) is to look a the big picture. Sure, the small details matter–– however, the first priority is to construct the foundation. Give the idea shape before etching in the filigree.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+When I'm not coding, I'm constantly creating in one way or another: by painting, making music, writing plays, or writing down new ideas. Creating, in general, all starts with a macro-mindset.
 
 #### Quick Learner & Teaching
 
@@ -53,7 +50,7 @@ Was creating this necessary? No. I could have created a simple directory that li
 ## Experience
 
 **Impressa Solutions** (Nov. 2019 to Sept. 2020)  
-_Inbound Alchemist (freelance)_
+_Inbound Alchemist (Inbound Digital Marketer/Social Media Team Lead)_
 
 - Coordinated and managed a team of Social Media Markers
 - Developed SOPs and Marketing Strategy for various clients
