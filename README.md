@@ -34,12 +34,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Quick Learner & Teaching
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+When I first bega my studies at University, I was on track to become a Theatre Educator, and because of this–– I was required to learn about meta-learning, or rather: Learning how to learn. This is a concept I've since been incorporating into my every day life as much as possible. Back in 2018, taking a look at my choice to travel the world, while being fluent in only one language (English)–– I decided to incorporate my knowledge of meta-learning into a couple of my own self-directed endeavours: Learning French, and learning to play the piano.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+After 5 months of intense self-study and weekly conversations in the language, I had managed to learn French to an A2 level, and was far more confident speaking in French than I had ever been in Spanish (despite 5 years of classes). 
+
+This technique or mindset has helped greatly in allowing me to learn bits and pieces of other languages, including coding languages, such as Ruby.
 
 #### Improvement Mindset
 
@@ -81,6 +80,9 @@ _Fulltime Teller_
 - 3.0 GPA
 - During my time at UWM, I worked for the IT Help Desk for two year (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
 
-## Hobbies
+## Interests
 
-Any cool stuff that makes you a super part of a software development team
+-  Languages
+-  Making art, music, what-have-you
+-  Storytelling
+-  Running, yoga, rock-climbing
