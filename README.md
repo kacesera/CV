@@ -10,8 +10,8 @@ Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Acad
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| (https://github.com/gonzalober/acebook-team-life-savers) [AceBook Challenge Backend API]            | This was a group project, where we replicated 'Facebook'. This is the backend API for the webapp, and was primarily where I spent my time. | Ruby on Rails, PostgreSQL, Heroku |
-| (https://github.com/kacesera/chitter-challenge)[Chitter Challenge]| This challenge was to replicate Twitter | Ruby, Sinatra, PostgreSQL |
+| (AceBook Challenge Backend API)[https://github.com/gonzalober/acebook-team-life-savers]   | This was a group project, where we replicated 'Facebook'. This is the backend API for the webapp, and was primarily where I spent my time. | Ruby on Rails, PostgreSQL, Heroku |
+| (Chitter Challenge)[https://github.com/kacesera/chitter-challenge]| This challenge was to replicate Twitter | Ruby, Sinatra, PostgreSQL |
 
 ## Skills
 
