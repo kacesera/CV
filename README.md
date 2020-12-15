@@ -4,14 +4,14 @@ I am a curious, ambitious, energetic wonderer and wanderer. After spending some 
 
 Pushing boundaries, experimenting, and testing are some of my favourite things. It doesn't take much to get me excited about a project!
 
-Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and am now on track to graduate Makers Academy (a 16 week Software Development Bootcamp) in December 2020. Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited about the future in a time when the future is so uncertain. 
+Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and have now graduated Makers Academy (a 16 week Software Development Bootcamp). Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited to keep learning. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| (https://github.com/gonzalober/acebook-team-life-savers) [AceBook Challenge Backend API]            | This was a group project, where we replicated 'Facebook'. This is the backend API for the webapp, and was primarily where I spent my time. | Ruby on Rails, PostgreSQL, Heroku |
+| (https://github.com/kacesera/chitter-challenge)[Chitter Challenge]| This challenge was to replicate Twitter | Ruby, Sinatra, PostgreSQL |
 
 ## Skills
 
