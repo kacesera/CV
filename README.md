@@ -10,66 +10,37 @@ Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Acad
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [AceBook Challenge Backend API](https://github.com/gonzalober/acebook-team-life-savers)   | This was a group project, where we replicated 'Facebook'. This is the backend API for the webapp, and was primarily where I spent my time. | Ruby on Rails, PostgreSQL, Heroku |
+| [Le Chicken: The Poulet](https://github.com/emilyalice2708/le-chicken)   | This was our final group project. Le Chicken: The Poulet is a language learning RPG mobile app for both iOS and Android | React Native, Expo, JSX, Jest, Cypress |
 | [Chitter Challenge](https://github.com/kacesera/chitter-challenge)| This challenge was to replicate Twitter | Ruby, Sinatra, PostgreSQL |
-
-## Skills
-
-Let's face it: I'm an extrovert. I am one-hundred-percent, inequivocally a people-person. I wake up on a Monday morning, and I'm **that** person. You know, the one who's actually excited for the 9AM Zoom call–– and my strongest skills are a great reflection of this. That said, am I someone who has to fill the silence? Not at all. Being comfortable with silence in a conversation, particularly over video conferencing, is an integral component of excellent communication and active listening.
-___
-#### 1. Effective, Efficient Communication & Active Listening
-___
-
-Listening is generally far more important than speaking–– such as listening to what you're clients are truly trying to communicate, and forming a response from there. Not only does the client feel more understood, doing this saves quite a lot of time.
-
-Having had the opportunity to work directly with stakeholders on various marketing projects, I was able to demonstrate on a daily basis in addition to coordinating our fully remote team of social media managers.
-___
-#### 2. Design, Imagination, & Looking at the Big Picture
-___
-
-It's easy to get lost in the details of things. As a matter of fact, I used to do that a lot. The most important lesson I've learnt in life (and in the creation of any project) is to look a the big picture. Sure, the small details matter–– however, the first priority is to construct the foundation. Give the idea shape before etching in the filigree.
-
-When I'm not coding, I'm constantly creating in one way or another: by painting, making music, writing plays, or writing down new ideas. Creating, in general, all starts with a macro-mindset.
-___
-#### 3. Quick Learner & Teaching
-___
-
-When I first began my studies at University, I was on track to become a Theatre Educator, and because of this–– I was required to learn about meta-learning, or rather: Learning how to learn. This is a concept I've since been incorporating into my every day life as much as possible. Back in 2018, taking a look at my choice to travel the world, while being fluent in only one language (English)–– I decided to incorporate my knowledge of meta-learning into a couple of my own self-directed endeavours: Learning French, and learning to play the piano.
-
-After 5 months of intense self-study and weekly conversations in the language, I had managed to learn French to an A2 level, and was far more confident speaking in French than I had ever been in Spanish (despite 5 years of classes). 
-
-This technique or mindset has helped greatly in allowing me to learn bits and pieces of other languages, including coding languages, such as Ruby.
-___
-#### 4. Improvement Mindset
-___
-"What can I do to make this a better experience?" Is something I constantly think about. Perfect doesn't exist, but I like to work on projects and develop them to be as useful as possible.
-
-As part of the Makers Academy precourse, I was tasked with a 'Student Directory' project. As part of this project, I decided to go slightly beyond the scope of the walkthrough to include a few new parameters that would deliver a more effective directory, and a better user experience. However, in order to implement some of these new methods.
-
-While doing this, I ran into more than a few bugs, but was able to fix all of them, refactor the code, and deliver a working program in commandline. All-in-all, I'm extremely happy with how it turned out. Rather than only taking a name and a month for the student, my directory takes in a name (properly capitalized it), a month, a hobby, and a birthdate (in UK format), and then returns each student by their respective cohort, and numbers each student within each cohort.
-
-Was creating this necessary? No. I could have created a simple directory that lists out each student and cohort. However, when imagining that I was building this for a teacher (like myself at the time), I knew that more information and a more descriptive output was necessary for a great experience. 
 
 ## Experience
 
 **Impressa Solutions** (Nov. 2019 to Sept. 2020)  
 _Inbound Alchemist (Inbound Digital Marketer/Social Media Team Lead)_
 
-- Coordinated and managed a team of Social Media Markers
-- Developed SOPs and Marketing Strategy for various clients
-- Copywriting for over 8 clients
+- Consultation with stakeholders, clients, and client-based teams.
+- Develop digital marketing strategy in conjunction with CEO and clients.
+- Hire, onboard, and manage new Social Media team.
 
 **Daegu Gyeongbuk English Village** (Nov. 2018 to Nov. 2019)  
 _ESL Teacher_
 
+- Devise and deliver customised ESL curriculum, based on DGEV's criteria.
+- Coordinate with non-English speaking staff to deliver top-notch work and outcomes for students.
+- Adapt well and quickly to a new culture.
+
 **UW Credit Union** (Oct. 2016 to June 2018)  
 _Fulltime Teller_
+
+- Demonstrate ability to follow strict guidelines, by enforcing federal and credit union policies.
+- Assure that all monies are efficiently and accurately counted, and all procedures are followed accordingly.
+- Ensure member safety by delivering excellent customer service and asking unintrusive questions to verify legitimacy of certain transactions.
 
 ## Education
 
 #### Makers Academy (Sept. 2020 to Dec. 2020)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, REST API
 - Agile/XP
 - Ruby, Rails, JavaScript, React.js, React Native, Node.js, Express
 - RSpec, Jasmine, Jest, Capybara, Cypress
