@@ -4,7 +4,7 @@ I am a curious, ambitious, energetic wonderer and wanderer. After spending some 
 
 Pushing boundaries, experimenting, and testing are some of my favourite things. It doesn't take much to get me excited about a project!
 
-Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and have now graduated Makers Academy (a 16 week Software Development Bootcamp). Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited to keep learning. 
+Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Academy's Online program, and have now graduated Makers Academy (a 12 week Software Development Bootcamp). Being in tech wasn't my first path, given my history in Theatre, English, and Marketing–– however, tech does something that no other field can: It makes me excited to keep learning. 
 
 ## Projects
 
