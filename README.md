@@ -71,11 +71,11 @@ _Fulltime Teller_
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React.js, React Native, Node.js, Express
+- RSpec, Jasmine, Jest, Capybara, Cypress
 
 #### University of Wisconsin - Milwaukee (Aug. 2012 to May 2018)
 
 - B.A. Theatre Arts & Certificate in Arts & Social Entrepreneurship
 - 3.0 GPA
-- During my time at UWM, I worked for the IT Help Desk for two year (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
+- During my time at UWM, I worked for the IT Help Desk for two years (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
