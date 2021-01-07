@@ -18,35 +18,43 @@ Over the past year, I wrote my own Sudoku Game, taught myself Ruby with App Acad
 **Impressa Solutions** (Nov. 2019 to Sept. 2020)  
 _Inbound Alchemist (Inbound Digital Marketer/Social Media Team Lead)_
 
-- Consultation with stakeholders, clients, and client-based teams.
-- Develop digital marketing strategy in conjunction with CEO and clients.
-- Hire, onboard, and manage new Social Media team.
+- Consulted and collaborated with stakeholders, clients, and client-based teams.
+- Developed digital marketing strategy in conjunction with CEO and various clients.
+- Lead the hiring, onboarding, and managed new Social Media team.
 
 **Daegu Gyeongbuk English Village** (Nov. 2018 to Nov. 2019)  
 _ESL Teacher_
 
-- Devise and deliver customised ESL curriculum, based on DGEV's criteria.
-- Coordinate with non-English speaking staff to deliver top-notch work and outcomes for students.
-- Adapt well and quickly to a new culture.
+- Devised and delivered customised ESL curriculum, based on DGEV's criteria.
+- Coordinated with non-English speaking staff to deliver top-notch work and outcomes for students.
+- Adapted well and quickly to a new culture.
 
 **UW Credit Union** (Oct. 2016 to June 2018)  
 _Fulltime Teller_
 
-- Demonstrate ability to follow strict guidelines, by enforcing federal and credit union policies.
-- Assure that all monies are efficiently and accurately counted, and all procedures are followed accordingly.
-- Ensure member safety by delivering excellent customer service and asking unintrusive questions to verify legitimacy of certain transactions.
+- Demonstrated ability to follow strict guidelines by enforcing federal and credit union policies.
+- Assured that all monies are efficiently and accurately counted, and all procedures are followed accordingly.
+- Ensured member safety by delivering excellent customer service and asking unintrusive questions to verify legitimacy of certain transactions.
+- Collaborated with a coworker to create and deliver a monthly employee newsletter, in a city-wide effort to increase employee morale.
 
 ## Education
 
 #### Makers Academy (Sept. 2020 to Dec. 2020)
 
-- OOP, TDD, MVC, DDD, REST API
-- Agile/XP
-- Ruby, Rails, JavaScript, React.js, React Native, Node.js, Express
-- RSpec, Jasmine, Jest, Capybara, Cypress
+- Used Agile methodology to lead several team projects that lead to the creation of: A Facebook copy, an AirBNB copy, and a language learning RPG mobile app (Le Chicken: The Poulet)
+- Followed Test Driven Design (TDD), Object Oriented Programming (OOP), and MVC principles in all projects.
+- Learned Behaviour Driven Design, Functional Design, and REST API principles.
+- Technologies, frameworks, and principles used:
+    - OOP, TDD, MVC, DDD, REST API
+    - Agile/XP
+    - Ruby, Rails, JavaScript, React.js, React Native, Node.js, Express
+    - RSpec, Jasmine, Jest, Capybara, Cypress
 
 #### University of Wisconsin - Milwaukee (Aug. 2012 to May 2018)
 
 - B.A. Theatre Arts & Certificate in Arts & Social Entrepreneurship
 - 3.0 GPA
-- During my time at UWM, I worked for the IT Help Desk for two years (2012 - 2014)–– holding both consultant and supervisory positions. Additionally, I campused and was elected as an At-Large Senator for UWM's Student Government in 2012. Along with this, I experiemented with a rang of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
+- Worked for the IT Help Desk for two years (2012 - 2014)–– holding both consultant and supervisory positions. 
+- Campused and was elected as an At-Large Senator for UWM's Student Government in 2012.
+- Experimented with a range of classes including: Educational Theory, Macro Economics, Mathematics, Playwriting, and Astronomy to name a few. 
+- Due to the nature of American schooling, my the range of classes within my degree gave me a broad education.
